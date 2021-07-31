@@ -5,6 +5,33 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "pas8",
+  "license": "ISC",
+  "main": "index.js",
+  "dependencies": {
+    "loose-envify": "^1.4.0",
+    "csstype": "^3.0.8",
+    "js-tokens": "^4.0.0",
+    "react": "^17.0.2",
+    "scheduler": "^0.20.2",
+    "react-dom": "^17.0.2",
+    "typescript": "^4.3.5",
+    "object-assign": "^4.1.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pas8/react-compose-layouts.git"
+  },
+  "keywords": [
+    "react",
+    "compose",
+    "layouts",
+    "compose-layouts",
+    "providers"
+  ],
+  "bugs": {
+    "url": "https://github.com/pas8/react-compose-layouts/issues"
+  },
+  "homepage": "https://github.com/pas8/react-compose-layouts#readme"
 }
