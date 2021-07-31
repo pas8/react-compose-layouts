@@ -1,6 +1,6 @@
 {
   "name": "react-compose-layouts",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "description": "Simple React component whitch can easyly compose all your provider and not provider layouts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
